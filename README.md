@@ -1,2 +1,6 @@
-# advanced-js
-Learn advanced javascript concepts
+# Advanced-js
+
+## Concepts
+
+- Scope
+- Closures
